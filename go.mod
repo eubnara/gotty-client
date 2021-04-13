@@ -3,7 +3,7 @@ module github.com/moul/gotty-client
 go 1.14
 
 require (
-	github.com/containerd/console v1.0.1
+	github.com/containerd/console v1.0.2
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/creack/goselect v0.1.1
 	github.com/gorilla/websocket v1.4.2
@@ -11,5 +11,5 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/stretchr/testify v1.5.1 // indirect
 	github.com/urfave/cli v1.22.5
-	golang.org/x/sys v0.0.0-20201113233024-12cec1faf1ba
+	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c
 )
